@@ -1,0 +1,31 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    display: inline-block;
+    padding: 10px;
+}
+
+.abt {
+    float: inline-start;
+}
+
+.str {
+    float: none;
+}
+
+.gml {
+    float: right;
+    order: inherit;
+}
+
+.img {
+    float: right;
+}
