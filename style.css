@@ -23,9 +23,19 @@ a {
 
 .gml {
     float: right;
-    order: inherit;
+    
 }
 
 .img {
     float: right;
+}
+
+footer {
+    display: in;
+    gap: 10px;
+
+}
+
+.privacy {
+    display: inline-flex;
 }
